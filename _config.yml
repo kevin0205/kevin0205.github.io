@@ -1,6 +1,7 @@
 # Site settings
 title: 我不是悟空
 email: wukun.kevin@163.com
+encoding: UTF-8
 description: > # this means to ignore newlines until "baseurl:"
   就算将灵魂筑成围墙 也不可能安然无恙
   何不就勇敢走到边疆
