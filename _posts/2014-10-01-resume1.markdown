@@ -1,0 +1,14 @@
+﻿---
+layout: post
+title:  "about us"
+date:   2014-10-01 00:00:00
+categories: story
+---
+
+<table style="border: #3076BC 2px solid; background: #F5FAFE;" border="0" width="97%" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td>(Curriculum Vitae/Résumé)</td>
+</tr>
+</tbody>
+</table>
