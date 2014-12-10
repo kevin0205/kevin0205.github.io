@@ -1,1 +1,13 @@
-permalink: /404.html
+# Site settings
+title: 盛兴街2号通告站
+email: wukun.kevin@163.com
+description: > # this means to ignore newlines until "baseurl:"
+  就算将灵魂筑成围墙 也不可能安然无恙
+  何不就勇敢走到边疆
+baseurl: "/" # the subpath of your site
+url: "http://kevin0205.github.io" # the base hostname & protocol for your site
+github_username:  kevin0205
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:title:output_ext
