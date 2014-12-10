@@ -4,11 +4,4 @@ title:  "2015，我来了"
 date:   2014-12-07 18:06:00
 categories: story
 ---
-New year and new start.Don't stop thinking and keep going ahead!
-
-kevin code snippets:
-
-{% highlight ruby %}
-Hi, 吴昆
-Are u ready?
-{% endhighlight %}
+New year and new start. Don't stop thinking and keep going ahead!
