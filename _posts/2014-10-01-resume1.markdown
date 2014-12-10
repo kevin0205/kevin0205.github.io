@@ -4,11 +4,5 @@ title:  "2015，我来了"
 date:   2014-12-07 18:06:00
 categories: story
 ---
-
-<table style="border: #3076BC 2px solid; background: #F5FAFE;" border="0" width="97%" cellspacing="0" cellpadding="0" align="center">
-<tbody>
-<tr>
-<td>(Curriculum Vitae/Résumé)</td>
-</tr>
-</tbody>
-</table>
+(Curriculum Vitae/Résumé)
+   第三代
