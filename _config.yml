@@ -4,8 +4,8 @@ email: wukun.kevin@163.com
 description: > # this means to ignore newlines until "baseurl:"
   就算将灵魂筑成围墙 也不可能安然无恙
   何不就勇敢走到边疆
-baseurl: "" # the subpath of your site
-url: "http://git.diwumeng.com" # the base hostname & protocol for your site
+#baseurl: "" # the subpath of your site
+#url: "http://git.diwumeng.com" # the base hostname & protocol for your site
 github_username:  kevin0205
 
 # Build settings
