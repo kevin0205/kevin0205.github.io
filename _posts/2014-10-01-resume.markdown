@@ -10,7 +10,7 @@ categories: story
 <td>(Curriculum Vitae/Résumé)</td>
 </tr>
 <tr>
-<td colspan="4" width="17%"><a href="http://www.diwumeng.com/wukun/wp-content/uploads/2014/07/wukun.png" class="broken_link"><img class="alignnone wp-image-106 size-medium" src="http://www.diwumeng.com/wukun/wp-content/uploads/2014/08/wukun.png" alt="wukun" width="90" height="110" /></a></td>
+<td colspan="4" width="17%"><a href="./img/me.png" class="broken_link"><img class="alignnone wp-image-106 size-medium" src="./img/me.png" alt="wukun" width="90" height="110" /></a></td>
 </tr>
 <tr>
 <td colspan="4" height="20">男 | 28岁(1987年)</td>
